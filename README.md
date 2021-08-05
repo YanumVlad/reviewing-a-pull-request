@@ -1,6 +1,6 @@
 ## Welcome to awesome game of Tetris
 
-A Project
+A Project A
 You can play the game at: https://YanumVlad.github.io/github-games/
 hello world change!!!
 
