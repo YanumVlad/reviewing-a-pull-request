@@ -19,6 +19,7 @@ To play the game:
 4. The goal is to create complete rows with no empty spaces.
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
+7. New line
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
