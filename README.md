@@ -20,6 +20,7 @@ To play the game:
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
 7. New line
+8. Perf fix
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
